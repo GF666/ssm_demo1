@@ -2,9 +2,11 @@ package com.cskaoyan.bean;
 
 /**
  * @author GF
- * @description 用户信息表
- * @date 2019/9/29
+ * @description
+ * @date 2019/92/9
  */
 
 public class User {
+    private int age;
+    private String name;
 }
